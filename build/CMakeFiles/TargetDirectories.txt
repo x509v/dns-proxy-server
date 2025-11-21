@@ -1,0 +1,3 @@
+/home/arsen/CLionProjects/dns/build/CMakeFiles/dns.dir
+/home/arsen/CLionProjects/dns/build/CMakeFiles/edit_cache.dir
+/home/arsen/CLionProjects/dns/build/CMakeFiles/rebuild_cache.dir

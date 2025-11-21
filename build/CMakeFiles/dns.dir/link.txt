@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dns.dir/config_parser.c.o CMakeFiles/dns.dir/main.c.o -o dns 

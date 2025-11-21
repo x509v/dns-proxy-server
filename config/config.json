@@ -1,0 +1,9 @@
+{
+  "dns_address" : "8.8.8.8",
+  "blacklist" : [
+    "google.com",
+    "youtube.com",
+    "instagram.com"
+  ],
+  "type_of_error_response": "not found"
+}
