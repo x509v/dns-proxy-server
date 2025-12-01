@@ -3,7 +3,9 @@
   "blacklist" : [
     "google.com",
     "youtube.com",
-    "instagram.com"
+    "instagram.com",
+    "pornhub.com"
   ],
+  "serv_port" : 53,
   "type_of_error_response": "not found"
 }
